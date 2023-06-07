@@ -19,7 +19,7 @@ connectDB();
 const app = express();
 app.use(
     cors({
-        origin: 'http://localhost:3000',
+        origin: 'https://bookify-app.onrender.com/',
         credentials: true, //access-control-allow-credentials:true
         optionSuccessStatus: 200,
     })
