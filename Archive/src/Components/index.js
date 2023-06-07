@@ -1,0 +1,12 @@
+export { default as Navbar } from './Navbar';
+export { default as Footer } from './Footer';
+export { default as Register } from './Register';
+export { default as Login } from './Login';
+export { default as NotFound } from './NotFound';
+export { default as Home } from './Home';
+export { default as Booking } from './Booking';
+export { default as ContactUs } from './ContactUs';
+export { default as Settings } from './Settings';
+export { default as AdminBookings } from './Admin/Bookings';
+export { default as AdminUsers } from './Admin/Users';
+export { default as Revenue } from './Admin/Revenue';

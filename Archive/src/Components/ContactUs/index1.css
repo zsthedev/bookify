@@ -1,0 +1,14 @@
+.ml-md-5 {
+    height: 100px;
+    width: 300px;
+    margin-left: 60px;
+}
+
+.map-container img:hover {
+    transform: scale(1.04);
+    transition: transform 0.3s ease-in-out;
+}
+
+.map-container {
+    padding-top: 10px;
+}
